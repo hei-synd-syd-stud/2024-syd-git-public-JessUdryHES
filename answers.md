@@ -32,8 +32,30 @@ Il y a deux README.md qui sont dans le repo un contenant le texte que l'on vient
 
 ### Task 6
 
+Lorsque je suis revenu sur Initial commit le fichier README a ete effacé et le fichier answers.md est revenu comme au debut du labo. Et lorsque nous sommes revenus au derniers commit tout est revenu avec tout les changements que j'avais effectué.
+
 ## Gitgraph
 
 ### Task 7
+
+1. Le nom d'une branche
+
+2. Id du commit
+
+3. Message du commit
+
+4. L'auteur du commit
+
+5. version de la branche
+
+6. Merge final 
+
+7. branche feature-auth et commit sur la branche develop
+
+8. creation de la branche feature-auth
+
+9. branche develop
+
+10. branche main 
 
 ![Gitgraph](img/gitgraph.svg)
